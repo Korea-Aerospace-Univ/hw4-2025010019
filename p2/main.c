@@ -9,6 +9,8 @@ int main(void)
     int i;
     
     scanf("%d", &n);
+
+    getchar ();
     
     for (i=1; i<=n; i++)
     {
