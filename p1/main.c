@@ -24,5 +24,5 @@ int main(void)
 
     printf("%d", n);        // 총 시도 횟수를 마지막에 출력한다.
     
-    
+    return 0;
 }
